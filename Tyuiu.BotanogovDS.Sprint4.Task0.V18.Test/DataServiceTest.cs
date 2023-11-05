@@ -13,7 +13,7 @@ namespace Tyuiu.BotanogovDS.Sprint4.Task0.V18.Test
         {
             DataService ds = new DataService();
 
-            int[] ar = { 9, 8, 7, 6, 5, 7, 3, 2, 7, 3 };
+            int[] ar = { 9, 8, 7, 6, 5, 7, 3, 2, 7, 3 }; 
             int res = ds.GetSumOddArrEl(ar);
             int wait = 41;
             Assert.AreEqual(res, wait);

@@ -12,7 +12,7 @@ namespace Tyuiu.BotanogovDS.Sprint4.Task0.V18
     {
         static void Main(string[] args)
         {
-            DataService ds = new DataService();
+            DataService ds = new DataService(); 
 
             Console.Title = "Спринт #4 | Выполнил: Ботаногов Д. С. | ИСТНб-23-1";
             Console.WriteLine("***************************************************************************");
