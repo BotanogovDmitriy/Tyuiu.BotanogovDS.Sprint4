@@ -5,7 +5,7 @@ using Tyuiu.BotanogovDS.Sprint4.Task1.V18.Lib;
 
 namespace Tyuiu.BotanogovDS.Sprint4.Task1.V18.Test
 {
-    [TestClass] 
+    [TestClass]  
     public class DataServiceTest
     {
         [TestMethod]

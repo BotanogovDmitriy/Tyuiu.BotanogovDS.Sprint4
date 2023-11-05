@@ -18,7 +18,7 @@ namespace Tyuiu.BotanogovDS.Sprint4.Task1.V18
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #4                                                               *");
             Console.WriteLine("* Тема: Оператор цикла continue/break                                     *");
-            Console.WriteLine("* Задание #4.1                                                            *");
+            Console.WriteLine("* Задание #1                                                              *");
             Console.WriteLine("* Вариант #18                                                             *");
             Console.WriteLine("* Выполнил: Ботаногов Дмитрий Сергеевич | ИСТНб-23-1                      *");
             Console.WriteLine("***************************************************************************");
