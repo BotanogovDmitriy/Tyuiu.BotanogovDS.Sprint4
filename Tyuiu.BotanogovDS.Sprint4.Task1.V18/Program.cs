@@ -14,13 +14,13 @@ namespace Tyuiu.BotanogovDS.Sprint4.Task1.V18
         {
             DataService service1 = new DataService();
             
-            Console.Title = "Спринт #4 | Выполнил: Воробьев С.А. | ПКДб-23-2";
+            Console.Title = "Спринт #4 | Выполнил: Ботаногов Д. С. | ИСТНб-23-1";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #4                                                               *");
             Console.WriteLine("* Тема: Оператор цикла continue/break                                     *");
             Console.WriteLine("* Задание #4.1                                                            *");
             Console.WriteLine("* Вариант #18                                                             *");
-            Console.WriteLine("* Выполнил:Воробьев Сергей Александрович | ПКТб-23-2                      *");
+            Console.WriteLine("* Выполнил: Ботаногов Дмитрий Сергеевич | ИСТНб-23-1                      *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
             Console.WriteLine("* Дан одномерный целочисленный массив на 16 элементов заполненный         *");
